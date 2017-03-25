@@ -20,6 +20,9 @@ https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 ```
 docker build -t node-web-app .
 ```
+all the local files in the directory: .
+
+`-t` tag the image with default tag (i.e. latest) 
 
 ## Run the image... creating a container
 
