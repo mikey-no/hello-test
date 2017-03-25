@@ -12,7 +12,7 @@ Wanted to test:
 ## References
 
 Dockerizing a Node.js web app:
-[https://nodejs.org/en/docs/guides/nodejs-docker-webapp/] (https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
 
 ## Build and image
