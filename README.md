@@ -27,11 +27,11 @@ docker build -t node-web-app .
 docker run -p 8000:8080 -d node-web-app
 ```
 
-run - run the image as a container
--p port number mapping
-    8000 is the external port for the world to use
-    8080 is the internal port on the node express app
--d is the display name??
+`run` - run the image as a container
+`-p` port number mapping
+    `8000` is the external port for the world to use
+    `8080` is the internal port on the node express app
+`-d` is the display name
 
 ## Get the containers ID
 
